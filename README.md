@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Lana 👋
 
-<!--
-**lanapachay/lanapachay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Builder · 12+ years in product
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=safari&logoColor=white)](https://lanapachay.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lanapachay)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I've surfaced the highest-impact product improvements for **10M+ users** at Meta, own the roadmap for an **AI-powered experimentation platform** driving **1,500+ experiments/year** at Flo Health, and built a **0→1 conversational commerce product** as a founder — years before LLMs made that mainstream.
+
+But what I actually care about is craft. How a product *feels* matters as much as the problem it *solves*. I care about systems thinking, and building things that make people feel understood.
+
+## What I'm building
+
+I'm working on a small studio of iOS apps — thoughtful tools designed for self-knowledge and intentional living. I'll share more here as they take shape.
+
+#### Working with
+
+![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=claude&logoColor=D97757)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+---
+
+*I care about craft and consumer products that feel like someone gave a damn. If you're building something like that — let's chat.*
