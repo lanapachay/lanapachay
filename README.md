@@ -1,10 +1,8 @@
 # Hey, I'm Lana
 
-Product Builder · 12+ years in product
-
+#### Product Builder · Guided by Product Sensibility
 ---
-
-I've surfaced the highest-impact product improvements for **10M+ users** at Meta, own the roadmap for an **AI-powered experimentation platform** driving **1,500+ experiments/year** at Flo Health, and built a **0→1 conversational commerce product** as a founder — years before LLMs made that mainstream.
+I've surfaced the highest-impact product improvements for **10M+ users** at Meta, own the roadmap for an **AI-powered experimentation platform** driving **1,500+ experiments/year** at Flo Health, and built a **0→1 conversational commerce assistant** as a founder — years before LLMs made that mainstream.
 
 But what I actually care about is craft. How a product *feels* matters as much as the problem it *solves*. I care about systems thinking, and building things that make people feel understood.
 
