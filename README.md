@@ -1,12 +1,12 @@
 # Hey, I'm Lana
 
-#### Product Builder guided by Product Sensibility:
+### Product Builder guided by Product Sensibility
 
 I believe that how a product *feels* matters as much as what problem it *solves*.
 
-- I own the roadmap for an **AI-powered experimentation platform** driving **1,500+ experiments/year** at Flo Health
 - Surfaced the highest-impact product improvements for **10M+ paid users** at Meta
 - Launched a **0→1 conversational commerce assistant** as a founder in 2015 — years before LLMs made that mainstream.
+- Currently own the roadmap for an **AI-powered experimentation platform** driving **1,500+ experiments/year** at Flo Health
 
 ## What I'm building
 
