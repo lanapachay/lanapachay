@@ -6,9 +6,9 @@ I believe that how a product *feels* matters as much as what problem it *solves*
 
 ## What I'm building
 
-A studio of iOS apps exploring how to make pattern tracking feel intuitive and surface personal data through color and gesture.
+[Intentional Labs](https://intentionallabs.co/) — a boutique studio of iOS apps exploring how to make pattern tracking feel intuitive and surface personal data through color and gesture. 
 
-## Where I've been
+## Where I've been before
 
 - Owned the roadmap for an **AI-powered experimentation platform** driving **1,500+ experiments/year** at Flo Health
 - Surfaced the highest-impact product improvements for **10M+ paid users** at Meta
